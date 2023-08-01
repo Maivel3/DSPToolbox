@@ -1,0 +1,24 @@
+F:\study 3d year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+F:\study 3d year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+F:\study 3d year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojAssemblyReference.cache
+F:\study 3d year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+F:\study 3d year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+F:\study 3d year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+D:\download\DSPToolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+D:\download\DSPToolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+D:\download\DSPToolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+D:\download\DSPToolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+D:\download\DSPToolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+D:\download\DSPToolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+C:\Users\dell\Downloads\DSPToolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\dell\Downloads\DSPToolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\dell\Downloads\DSPToolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\DSPToolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\dell\Downloads\DSPToolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+C:\Users\dell\Downloads\DSPToolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+D:\DSPToolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+D:\DSPToolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+D:\DSPToolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+D:\DSPToolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+D:\DSPToolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+D:\DSPToolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
